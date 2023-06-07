@@ -1,10 +1,10 @@
 # Libros-En-Esp
 ## Resumen de los libros
-"Clean Code: A Handbook of Agile Software Craftsmanship" de Robert C. Martin:
+### "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert C. Martin:
 Este libro se enfoca en la importancia de escribir un código limpio y bien estructurado. Robert C. Martin, conocido como "Uncle Bob", ofrece principios y prácticas que ayudan a los desarrolladores a mejorar la calidad del código. El libro aborda temas como la nomenclatura adecuada, el diseño de funciones y clases, la gestión de errores y el control de dependencias. También se centra en la importancia de mantener un código legible, ya que la legibilidad es fundamental para la colaboración en equipo y el mantenimiento a largo plazo. A través de ejemplos prácticos, Martin muestra cómo aplicar estos principios en el desarrollo de software y cómo los buenos hábitos de codificación pueden llevar a un código más mantenible y de calidad.
 
-"The Pragmatic Programmer: Your Journey to Mastery" de Andrew Hunt y David Thomas:
+### "The Pragmatic Programmer: Your Journey to Mastery" de Andrew Hunt y David Thomas:
 Este libro es una guía práctica para programadores que desean mejorar sus habilidades y convertirse en desarrolladores más efectivos. Los autores ofrecen consejos y técnicas prácticas para abordar los desafíos comunes en el desarrollo de software. Exploran temas como el aprendizaje continuo, la comunicación efectiva, la gestión de proyectos, el trabajo en equipo, la depuración y la refactorización de código. Los autores también enfatizan la importancia de ser "pragmáticos", es decir, de encontrar soluciones prácticas y eficientes para los problemas en lugar de aferrarse a dogmas o modas pasajeras. El libro proporciona numerosos ejemplos y casos de estudio para ilustrar los conceptos y las mejores prácticas que se presentan.
 
-"JavaScript: The Good Parts" de Douglas Crockford:
+### "JavaScript: The Good Parts" de Douglas Crockford:
 En este libro, Douglas Crockford, reconocido experto en JavaScript, se centra en los aspectos más importantes y poderosos del lenguaje. El autor explora las partes "buenas" de JavaScript, es decir, las características que son elegantes y eficientes, evitando aquellas que pueden llevar a errores o confusiones. Crockford aborda temas como la sintaxis, los objetos, las funciones, el manejo de errores y los patrones de diseño. El libro también destaca la importancia de entender la naturaleza prototípica de JavaScript y cómo aprovecharla al máximo. A través de ejemplos y explicaciones claras, Crockford proporciona consejos prácticos para escribir un código JavaScript más robusto y efectivo, evitando las trampas y malas prácticas comunes.
